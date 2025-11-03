@@ -128,8 +128,8 @@ All images and captions are curated and validated by cultural insiders:
 
 ## Team
 
-**Carnegie Mellon University**: Zhixuan Liu, Youeun Shin, Beverley-Claire Okogwu, Youngsik Yun, Lia Coleman, Peter Schaldenbrand, Jean Oh  
-**Dongguk University**: Jihie Kim, Youeun Shin, Youngsik Yun
+**Carnegie Mellon University**: Zhixuan Liu, Beverley-Claire Okogwu, Lia Coleman, Peter Schaldenbrand, Jean Oh  
+**Dongguk University**: Youeun Shin, Youngsik Yun, Jihie Kim
 
 ## Contact
 
