@@ -124,7 +124,7 @@ All images and captions are curated and validated by cultural insiders:
 **Links**:
 - Paper: [arXiv:2301.12073](https://arxiv.org/abs/2301.12073)
 - Dataset: [Google Sheets](https://docs.google.com/spreadsheets/d/1dbSXgwCZuu9zpDZyUQ-pKDZGRYhzeaXCR5geRYNUwEA/)
-- Fine-tuning Method: [SCoFT (arXiv:2401.00805)](https://arxiv.org/abs/2401.00805)
+- Fine-tuning Method: [SCoFT (arXiv:2401.00805)](https://arxiv.org/abs/2401.08053)
 
 ## Team
 
